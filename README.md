@@ -7,8 +7,8 @@ Login to NPM, semi or fully automated, headless, scripted, non-interactive with 
 * Small, simple, easy to audit, yourself
 
 Inspired by my previous project
-> * Original version: https://github.com/softwarecreations/npm-automated-login-totp
-> * Paranoid version: https://github.com/softwarecreations/npm-login-yubikey < You are here
+> * Original version: https://www.npmjs.com/package/npm-automated-login-totp
+> * Paranoid version: https://www.npmjs.com/package/npm-login-yubikey < You are here
 
 Read that readme before using this.
 
