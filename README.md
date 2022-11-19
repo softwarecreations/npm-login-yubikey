@@ -54,6 +54,14 @@ Example username is: `bob`
 * Tested with YubiKey 5 Nano
 * We call the TOTP key 'npm' but you can call it whatever you like.
 
+### Provide 1 or more additional login options - optional
+```
+export NPM_EXTRA0='--registry=https://foo.com'
+export NPM_EXTRA1='--scope=@orgname'
+# ...
+export NPM_EXTRA9='--future=proof'
+```
+
 Have fun!
 
 ### Say thanks

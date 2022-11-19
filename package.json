@@ -1,6 +1,6 @@
 {
   "name": "npm-login-yubikey",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Automated or semi-automated NPM login with a YubiKey as 2FA, simple, no dependencies, auditable.",
   "main": "index.js",
   "dependencies": {
