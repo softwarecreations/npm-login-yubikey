@@ -1,0 +1,42 @@
+{
+  "name": "npm-login-yubikey",
+  "version": "1.0.0",
+  "description": "Automated or semi-automated NPM login with a YubiKey as 2FA, simple, no dependencies, auditable.",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^2.20.3",
+    "jssha": "^3.2.0",
+    "otplib": "^12.0.1",
+    "totp-generator": "^0.0.13",
+    "thirty-two": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarecreations/npm-login-yubikey.git"
+  },
+  "keywords": [
+    "npm",
+    "login",
+    "yubikey",
+    "security",
+    "adduser",
+    "cli",
+    "automation",
+    "automated",
+    "2fa",
+    "authentication",
+    "noninteractive",
+    "headless"
+  ],
+  "author": "softwarecreations",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softwarecreations/npm-login-yubikey/issues"
+  },
+  "homepage": "https://github.com/softwarecreations/npm-login-yubikey#readme"
+}
