@@ -1,6 +1,6 @@
 {
   "name": "npm-login-yubikey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automated or semi-automated NPM login with a YubiKey as 2FA, simple, no dependencies, auditable.",
   "main": "index.js",
   "dependencies": {
@@ -33,7 +33,9 @@
     "2fa",
     "authentication",
     "noninteractive",
-    "headless"
+    "headless",
+    "console",
+    "terminal"
   ],
   "author": "softwarecreations",
   "license": "MIT",
