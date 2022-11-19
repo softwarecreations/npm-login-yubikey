@@ -13,6 +13,8 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node index.js",
+    "publish": "npm publish --auth-type=legacy --otp=$(npm-automated-login-totp --generate-otp --no-color) --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
