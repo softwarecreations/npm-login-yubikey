@@ -21,7 +21,8 @@ Example username is: `bob`
 > * Debian/Ubuntu/PopOS `apt install yubikey-manager`
 > * Fedora/Redhat `yum install yubikey-manager`
 > * In Python: `pip install --user yubikey-manager`
-> * Windows/Mac, figure it out
+> * Windows `choco install yubikey-manager`
+> * Mac `brew install ykman`
 
 3. Enable 2FA on your NPM account
 > * (on a secure computer with YubiKey plugged in)
