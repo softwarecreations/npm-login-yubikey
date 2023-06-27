@@ -1,3 +1,9 @@
+[![NPM downloads](http://img.shields.io/npm/dt/npm-login-yubikey.svg)](https://npmjs.org/package/npm-login-yubikey)
+[![Version](https://img.shields.io/npm/v/npm-login-yubikey.svg)](https://www.npmjs.com/package/npm-login-yubikey)
+[![Dependencies](https://img.shields.io/librariesio/release/npm/npm-login-yubikey)](https://libraries.io/npm/npm-login-yubikey)
+[![License](https://img.shields.io/npm/l/npm-login-yubikey)](https://npmjs.org/package/npm-login-yubikey)
+![Code size](https://img.shields.io/github/languages/code-size/softwarecreations/npm-login-yubikey.svg)
+
 # npm-login-yubikey
 
 Login to NPM, semi or fully automated, headless, scripted, non-interactive with a YubiCo YubiKey for 2FA (two factor authentication)
